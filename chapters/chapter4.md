@@ -203,8 +203,22 @@ No hints or solution necessary here.
 
 <exercise id="2" title="Report and interpret results">
 
+# Prettier plots
+
+Wile forest plots are the traditinal way for showing what is going on and may be useful (at least if ordered by effect sizes - see "caterpillar plots on the "orcharRd" page!), there are now better ways to visualise your metanalytical data.  In particular, "orchaRd" allows visualisation grouped by treatments , taxonomic groups or whatever your moderators may be. Please take some time to explore Dan Noble's page: 
+[orchaRD](https://daniel1noble.github.io/orchaRd/)
+
+   
+Here you can find a lot of extra information on running and interpreting meta-regressions, and different ways for visualising for example continuous data, overall outcomes, or moderator-influenced effects (bubble plots, caterpillar plots).  
+In case of severe publication bias, the visuals for bias-corrected mean plots may be something you may want to consider to include in your work!
+    
+
+
+
 # Writing it up
 
+
+Hopefully your orchaRd plots and model outputs allow you to interpret your research question!
 
 The [PRISMA checklist](http://prisma-statement.org/documents/PRISMA%202009%20checklist.pdf), which we used as our framework for conducting a systematic review, will give a good overview of all the things you need to report in or alongside your manuscript. 
 
