@@ -207,7 +207,7 @@ No hints or solution necessary here.
 
 Wile forest plots are the traditional way for showing what is going on and may be useful (at least if ordered by effect sizes - see "caterpillar plots on the "orcharRd" page!), there are now better ways to visualise your metanalytical data.  In particular, "orchaRd" allows visualisation grouped by treatments , taxonomic groups or whatever your moderators may be. 
  
-        
+                
 Please take some time to explore Dan Noble's page: 
 [orchaRD](https://daniel1noble.github.io/orchaRd/)
 
